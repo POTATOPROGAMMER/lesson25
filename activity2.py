@@ -13,5 +13,9 @@ print("\narray after insertion: " , end="")
 for i in (a):
     print(i,end="")
 print()
-
-
+b.append(4.4)
+print("\narray after insertion: " , end="")
+for i in (b):
+    print(i,end="")
+print("access element is a[0]")
+print("access element is b[2]")
